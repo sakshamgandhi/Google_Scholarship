@@ -1,4 +1,4 @@
 # Google_Scholarship
 
 
-You Can Check it Out at https://sakshamgandhi.github.io/
+You Can Check the Pixel Art Maker Project at https://sakshamgandhi.github.io/
